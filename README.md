@@ -3,7 +3,7 @@
 ---
 
 **Student Name:** Archisman Chakraborti  
-**Place of Study:** Harish Chandra Research Institute, Prayagraj
+**Place of Study:** Harish Chandra Research Institute, Prayagraj  
 **Email:** archismanninja@gmail.com
 
 
