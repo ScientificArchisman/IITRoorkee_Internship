@@ -2,7 +2,7 @@
 # IIT Roorkee Internship Selection Project
 ---
 
-**Student Name:** Archisman Chakraborti
+**Student Name:** Archisman Chakraborti  
 **Place of Study:** Harish Chandra Research Institute, Prayagraj
 **Email:** archismanninja@gmail.com
 
